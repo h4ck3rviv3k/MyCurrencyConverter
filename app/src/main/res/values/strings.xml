@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyCurrencyConverter</string>
+    <string name="hint_enter_price">Enter Price</string>
+    <string name="placeholder_msg">Fetching Exchange Rates</string>
+</resources>
